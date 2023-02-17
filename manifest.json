@@ -1,6 +1,6 @@
 {
-    "name": "simple",
-    "short_name": "simple",
+    "name": "pages",
+    "short_name": "pages",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
